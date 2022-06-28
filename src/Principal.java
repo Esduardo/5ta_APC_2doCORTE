@@ -16,6 +16,6 @@ public class Principal{
         procesos.proceso2();
         //--------------------------------------------------------------------------------------------------------------
         //                                          LECTURA
-        SalidaInformacion.salidaInformacion(Procesos.getBandefaFinal(),LecturaDatos.getH(), LecturaDatos.getM(), LecturaDatos.getS());
+        SalidaInformacion.salidaInformacion(Procesos.getBandefaFinal(),LecturaDatos.getH(), LecturaDatos.getM(), LecturaDatos.getS(), Procesos.getBandera1(), Procesos.getBandera2(), Procesos.getBandera3());
     }
 }

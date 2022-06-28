@@ -38,4 +38,16 @@ public class Procesos {
     public static int getBandefaFinal() {
         return bandefaFinal;
     }
+
+    public static int getBandera1() {
+        return bandera1;
+    }
+
+    public static int getBandera2() {
+        return bandera2;
+    }
+
+    public static int getBandera3() {
+        return bandera3;
+    }
 }
